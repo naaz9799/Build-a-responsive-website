@@ -1,0 +1,36 @@
+<DOCTYPE html>
+
+<html>
+<head>
+<title>Tables</title>
+<style>
+h1{background-color:blue;color:purple;}
+img{width:90px;height:100px}
+</style>
+</head>
+<body>
+<h1>TABLE</h1>
+<table>
+<tr>
+<th>Name</th>
+<th>Email</th>
+<th>ProfilePicture</th>
+</tr>
+<tr>
+<td>Jack</td>
+<td>jack0032@gmail.com</td>
+<td><a href="https://www.google.com/"><img src="BestMe_20170411151922-1.jpg"></a></td>
+</tr>
+<tr>
+<td>Ashton</td>
+<td>ashwings@gmail.com</td>
+<td><a href="https://www.google.com/"><img src="received_885117984972655.jpeg"</a></td>
+</tr>
+<tr>
+<td>Justin</td>
+<td>justkookie@gmail.com</td>
+<td><a href="https://www.google.com/"><img src="Untitled-1.jpg"</a></td>
+</tr>
+</body>
+</html>
+
